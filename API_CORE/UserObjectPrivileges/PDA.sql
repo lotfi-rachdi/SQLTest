@@ -1,0 +1,1 @@
+GRANT SELECT ON config.pda TO api_core;

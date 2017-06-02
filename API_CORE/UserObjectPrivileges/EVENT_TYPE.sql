@@ -1,0 +1,1 @@
+GRANT SELECT ON config.event_type TO api_core;

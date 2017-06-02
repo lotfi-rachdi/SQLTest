@@ -1,0 +1,1 @@
+GRANT SELECT ON master_proc.proc_log TO api_core;

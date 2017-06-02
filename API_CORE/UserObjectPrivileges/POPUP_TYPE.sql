@@ -1,0 +1,1 @@
+GRANT SELECT ON config.popup_type TO api_core;

@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER".sent_message_site_rel TO api_core;

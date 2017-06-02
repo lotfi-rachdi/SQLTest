@@ -1,0 +1,1 @@
+GRANT SELECT ON config.parcel_property TO api_core;

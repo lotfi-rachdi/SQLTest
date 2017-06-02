@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER".site_contact_rel TO api_core;

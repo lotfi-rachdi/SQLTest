@@ -1,0 +1,1 @@
+GRANT SELECT ON import_pda.t_period_imported TO api_core;

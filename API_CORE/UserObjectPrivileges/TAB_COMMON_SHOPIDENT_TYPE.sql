@@ -1,0 +1,1 @@
+GRANT EXECUTE ON api_core.tab_common_shopident_type TO api_front;

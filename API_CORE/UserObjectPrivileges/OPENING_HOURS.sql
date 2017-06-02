@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER".opening_hours TO api_core;

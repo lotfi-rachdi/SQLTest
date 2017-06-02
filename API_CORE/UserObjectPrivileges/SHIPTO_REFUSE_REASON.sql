@@ -1,0 +1,1 @@
+GRANT SELECT ON config.shipto_refuse_reason TO api_core;
