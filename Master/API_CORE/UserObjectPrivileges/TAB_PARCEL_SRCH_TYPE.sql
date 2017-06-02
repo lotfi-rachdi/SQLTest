@@ -1,0 +1,1 @@
+GRANT EXECUTE ON api_core.tab_parcel_srch_type TO api_front;

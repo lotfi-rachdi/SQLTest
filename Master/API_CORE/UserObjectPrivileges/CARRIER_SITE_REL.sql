@@ -1,0 +1,1 @@
+GRANT SELECT ON config.carrier_site_rel TO api_core;

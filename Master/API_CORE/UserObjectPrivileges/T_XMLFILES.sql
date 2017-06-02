@@ -1,0 +1,1 @@
+GRANT SELECT ON import_pda.t_xmlfiles TO api_core;

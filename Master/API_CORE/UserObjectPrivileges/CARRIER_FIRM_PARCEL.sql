@@ -1,0 +1,1 @@
+GRANT SELECT ON config.carrier_firm_parcel TO api_core;

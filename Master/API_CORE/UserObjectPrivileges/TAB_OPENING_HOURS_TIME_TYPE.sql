@@ -1,0 +1,1 @@
+GRANT EXECUTE ON api_core.tab_opening_hours_time_type TO api_front;

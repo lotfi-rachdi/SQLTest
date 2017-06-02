@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER"."PERIOD" TO api_core;

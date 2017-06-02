@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER".indispo TO api_core;

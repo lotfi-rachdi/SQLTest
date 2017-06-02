@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER".sent_message TO api_core;

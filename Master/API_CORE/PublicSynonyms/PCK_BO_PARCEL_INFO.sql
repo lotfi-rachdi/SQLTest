@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pck_bo_parcel_info FOR api_core.pck_bo_parcel_info;

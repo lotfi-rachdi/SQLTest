@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER".contact TO api_core;

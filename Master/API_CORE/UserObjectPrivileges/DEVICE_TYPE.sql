@@ -1,0 +1,1 @@
+GRANT SELECT ON config.device_type TO api_core;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM evt_preparation_type FOR api_core.evt_preparation_type;

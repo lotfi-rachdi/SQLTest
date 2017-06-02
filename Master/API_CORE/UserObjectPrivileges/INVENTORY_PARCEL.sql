@@ -1,0 +1,1 @@
+GRANT SELECT ON "MASTER".inventory_parcel TO api_core;

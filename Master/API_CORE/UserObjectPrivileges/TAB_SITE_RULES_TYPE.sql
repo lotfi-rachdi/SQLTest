@@ -1,0 +1,1 @@
+GRANT EXECUTE ON api_core.tab_site_rules_type TO api_front;

@@ -1,0 +1,1 @@
+GRANT SELECT ON config.indispo_type TO api_core;

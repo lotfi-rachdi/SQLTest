@@ -1,0 +1,1 @@
+GRANT SELECT ON config.form_type TO api_core;
