@@ -2,7 +2,7 @@ CREATE OR REPLACE PACKAGE api_core.PCK_API_CONSTANTS
 -- ***************************************************************************
 --  PACKAGE     : API_CORE.PCK_API_CONSTANTS
 --  DESCRIPTION : Package de constantes pour la couche API
---
+-- Add Comment
 -- ---------------------------------------------------------------------------
 --          | DATE       | AUTHOR
 --          | DESCRIPTION

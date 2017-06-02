@@ -1,3 +1,4 @@
+--add comment
 CREATE OR REPLACE TYPE api_core."COMMON_MESSAGE_TYPE"                                          FORCE AS OBJECT
 -- ***************************************************************************
 --  TYPE        : API_CORE.COMMON_MESSAGE_TYPE
